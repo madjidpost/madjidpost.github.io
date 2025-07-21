@@ -1,0 +1,1 @@
+// Aquí puedes añadir funciones interactivas en el futuro
